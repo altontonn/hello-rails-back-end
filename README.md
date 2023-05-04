@@ -21,7 +21,7 @@
 
 # 📖 [Rails react] <a name="about-project"></a>
 
-**[Hello Rails Backend]** is an application built ruby on rails and postgres that show API ENDPOINT for random messages.
+**[Hello Rails Backend]** is an application built on ruby on rails and postgresql that shows API ENDPOINTS for random messages.
 
 ## 🛠 Built With <a name="built-with"></a>
 
