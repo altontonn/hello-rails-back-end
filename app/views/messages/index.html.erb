@@ -1,0 +1,13 @@
+<h1>Messages#index</h1>
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Greetings</th>
+  </tr>
+  <% @messages.each do |message| %>
+  <tr>
+    <td><%= message.id %></td>
+    <td><%= message.greeting %></td>
+  </tr>
+  <% end %>
+</table>
