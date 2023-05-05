@@ -53,7 +53,7 @@
 
 ### Hello-React-Front-End <a name="front-end"></a>
 
-- Hello-React-Front-End(https://github.com/altontonn/Hello-react-front-end)
+- [Hello-React-Front-End](https://github.com/altontonn/Hello-react-front-end)
 
 <!-- GETTING STARTED -->
 
